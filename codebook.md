@@ -1,4 +1,4 @@
-Averages of the mean and standard deviation variables from the Samsung Galaxy S smartphone.
+Averages of the mean and standard deviation variables from embedded accelerometer and gyroscope in the Samsung Galaxy S2 smartphone.
 
 "1" "subject_id"
 	- An identifier of the subject who carried out the experiment.
